@@ -3,7 +3,7 @@
 import sys
 
 if len(sys.argv) > 1:
-    print("nope")
+    print("none")
 else:
     i = 0
 

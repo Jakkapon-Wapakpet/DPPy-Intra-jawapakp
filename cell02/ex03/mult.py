@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
-first_number = int(input("Enter the First number :\n"))
-second_number = int(input("Enter the second number :\n"))
+first_number = int(input("Enter the First number :\n "))
+second_number = int(input("Enter the second number : \n"))
 
 result = first_number * second_number
 
